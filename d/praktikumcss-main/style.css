@@ -1,0 +1,44 @@
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
+
+#header {
+    background-color: whitesmoke;
+    height: 125px;
+    padding: 10px;
+}
+
+.desk {
+    text-align: center;
+}
+
+.menu li {
+    display: inline;
+    margin: 40px;
+}
+
+.menu a {
+    margin-left: 200px;
+}
+
+.menu a:hover {
+    font-weight: bold;
+    color: red;
+}
+
+.isi::first-letter {
+    color: blue;
+    font-size: 40px;
+}
+
+.gambar {
+    text-align: center;
+}
+
+.koleksi {
+    text-align: center;
+    width: 20%;
+    display: flex;
+    height: 20%;
+}
